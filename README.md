@@ -10,7 +10,7 @@ Transform your OTT experience with our innovative Movie-Product Recommendation S
 
 ## Getting Started
 
-1. **Data Exploration:** Understand IMDB, Fashion, Amazon, and Books datasets.
+1. **Data Exploration:** Understand IMDB,TMDB, Fashion, Amazon,Walmart Dataset.
 2. **Data Integration:** Merge datasets for a comprehensive source.
 3. **Preprocessing:** Clean and transform data for robust algorithms.
 4. **Model Development:** Choose algorithms, train the model.
